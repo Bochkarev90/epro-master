@@ -1,0 +1,8 @@
+urllib3
+opencv-python==4.2.0.34
+requests
+Appium-Python_Client>=0.50
+behave>=1.2.6
+jira>=2.0.0
+selenium>=3.141.0
+selene==2.0.0a21

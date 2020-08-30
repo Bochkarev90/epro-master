@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Python</ID>
+  <OriginalElement>helpers.helpers.S</OriginalElement>
+  <nodes>
+    <node x="353.0" y="613.0">page_elements.matrixcloud.lists.DataAutotestList</node>
+    <node x="0.0" y="613.0">page_elements.matrixcloud.lists.PopoverList</node>
+    <node x="648.71875" y="0.0">helpers.helpers.S</node>
+    <node x="179.53125" y="389.0">page_elements.matrixcloud.lists._BaseList</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="page_elements.matrixcloud.lists.PopoverList" target="page_elements.matrixcloud.lists._BaseList">
+      <point x="0.0" y="-48.5" />
+      <point x="166.5" y="533.0" />
+      <point x="259.28125" y="533.0" />
+      <point x="-79.75" y="59.5" />
+    </edge>
+    <edge source="page_elements.matrixcloud.lists.DataAutotestList" target="page_elements.matrixcloud.lists._BaseList">
+      <point x="0.0" y="-48.5" />
+      <point x="537.0" y="533.0" />
+      <point x="418.78125" y="533.0" />
+      <point x="79.75" y="59.5" />
+    </edge>
+    <edge source="page_elements.matrixcloud.lists._BaseList" target="helpers.helpers.S">
+      <point x="0.0" y="-59.5" />
+      <point x="339.03125" y="364.0" />
+      <point x="699.96875" y="364.0" />
+      <point x="-51.25" y="169.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="427.0" y="355.5" />
+  <SelectedNodes>
+    <node>helpers.helpers.S</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+</Diagram>
+
